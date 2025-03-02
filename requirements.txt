@@ -1,5 +1,5 @@
 streamlit
 google.generativeai
-langchain.text_splitter
+langchain
 langchain_community
 langchain_google_genai
